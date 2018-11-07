@@ -60,5 +60,8 @@ npm run build --report
 </script>
 ```
 
+## 展示
+![](https://gw.alipayobjects.com/zos/rmsportal/gWdSBcCHMJpNLsMZJqGN.gif)
+
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
