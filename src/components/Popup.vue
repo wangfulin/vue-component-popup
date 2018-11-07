@@ -1,6 +1,6 @@
 <template>
   <div class="popup-container" v-if="!isClosePopup">
-    <div class="mask" ref="mask" :style="{opacity: opacity, color: color}"></div>
+    <div class="mask" ref="mask" :style="{opacity: opacity, backgroundColor: color}"></div>
     <div class="content" ref="content">
       <slot>
 
